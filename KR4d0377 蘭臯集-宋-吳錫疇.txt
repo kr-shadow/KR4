@@ -1,5 +1,5 @@
 #+TITLE: 蘭臯集-宋-吳錫疇
-#+DATE: 2016-06-11 12:25:05
+#+DATE: 2018-05-12 10:19:42
 #+SOURCE: github.com/kanripo/KR4d0377 master bef51ad2                
 欽定四庫全書　　　　　集部四
 　蘭臯集　　　　　　　　别集類三(宋/)

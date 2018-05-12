@@ -1,5 +1,5 @@
 #+TITLE: 談龍錄-清-趙執信
-#+DATE: 2016-06-11 12:26:40
+#+DATE: 2018-05-12 10:21:28
 #+SOURCE: github.com/kanripo/KR4i0061 master 8d9ee3bc                
 欽定四庫全書
 　談龍録

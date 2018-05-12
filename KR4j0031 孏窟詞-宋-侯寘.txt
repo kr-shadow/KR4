@@ -1,5 +1,5 @@
 #+TITLE: 孏窟詞-宋-侯寘
-#+DATE: 2016-06-11 12:26:42
+#+DATE: 2018-05-12 10:21:29
 #+SOURCE: github.com/kanripo/KR4j0031 master aa4d3a1a                
 欽定四庫全書
 　孏窟詞

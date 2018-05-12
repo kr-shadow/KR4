@@ -1,5 +1,5 @@
 #+TITLE: 審齋詞-宋-王千秋
-#+DATE: 2016-06-11 12:26:42
+#+DATE: 2018-05-12 10:21:29
 #+SOURCE: github.com/kanripo/KR4j0035 master d6354732                
 欽定四庫全書
 　審齋詞

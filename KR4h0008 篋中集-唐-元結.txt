@@ -1,5 +1,5 @@
 #+TITLE: 篋中集-唐-元結
-#+DATE: 2016-06-11 12:25:56
+#+DATE: 2018-05-12 10:20:39
 #+SOURCE: github.com/kanripo/KR4h0008 master c89ef614                
 欽定四庫全書　　　　　集部八
 　篋中集　　　　　　　　總集類

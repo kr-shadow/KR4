@@ -1,5 +1,5 @@
 #+TITLE: 逍遙集-宋-潘閬
-#+DATE: 2016-06-11 12:24:32
+#+DATE: 2018-05-12 10:19:07
 #+SOURCE: github.com/kanripo/KR4d0004 master 3d91173e                
 欽定四庫全書　　　　　集部三
 　提要

@@ -1,5 +1,5 @@
 #+TITLE: 友石山人遺稿-元-王翰
-#+DATE: 2016-06-11 12:25:15
+#+DATE: 2018-05-12 10:19:52
 #+SOURCE: github.com/kanripo/KR4d0551 master 9ccba34c                
 欽定四庫全書　　　　　集部五
 　友石山人遺稿　　　　　　别集類四(元/)

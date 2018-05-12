@@ -1,5 +1,5 @@
 #+TITLE: 王魏公集-宋-王安禮
-#+DATE: 2016-06-11 12:24:37
+#+DATE: 2018-05-12 10:19:12
 #+SOURCE: github.com/kanripo/KR4d0059 master 91b4eadb                
 欽定四庫全書　　　　　集部三
 　提要

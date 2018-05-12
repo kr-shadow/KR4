@@ -1,5 +1,5 @@
 #+TITLE: 詩品-梁-鍾嶸
-#+DATE: 2016-06-11 12:26:38
+#+DATE: 2018-05-12 10:21:25
 #+SOURCE: github.com/kanripo/KR4i0003 master b88bdde2                
 欽定四庫全書　　　　　集部九
 　詩品　　　　　　　　　詩文評類

@@ -1,5 +1,5 @@
 #+TITLE: 竹坡詩詩-宋-周紫芝
-#+DATE: 2016-06-11 12:26:39
+#+DATE: 2018-05-12 10:21:26
 #+SOURCE: github.com/kanripo/KR4i0030 master cd0892f1                
 欽定四庫全書　　　　　集部九
 　竹坡詩話　　　　　　　詩文評類

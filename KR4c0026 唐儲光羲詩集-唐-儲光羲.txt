@@ -1,5 +1,5 @@
 #+TITLE: 唐儲光羲詩集-唐-儲光羲
-#+DATE: 2016-06-11 12:24:26
+#+DATE: 2018-05-12 10:19:01
 #+SOURCE: github.com/kanripo/KR4c0026 master a01b11ce                
 欽定四庫全書　　　　　集部二
 　儲光羲詩集　　　　　　别集類一(唐/)

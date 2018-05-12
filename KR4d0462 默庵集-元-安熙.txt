@@ -1,5 +1,5 @@
 #+TITLE: 默庵集-元-安熙
-#+DATE: 2016-06-11 12:25:10
+#+DATE: 2018-05-12 10:19:46
 #+SOURCE: github.com/kanripo/KR4d0462 master 99c667e7                
 欽定四庫全書　　　　　集部五
 　黙庵集　　　　　　　　别集類四(元/)

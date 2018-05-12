@@ -1,5 +1,5 @@
 #+TITLE: 東山詩選-宋-葛紹體
-#+DATE: 2016-06-11 12:25:00
+#+DATE: 2018-05-12 10:19:37
 #+SOURCE: github.com/kanripo/KR4d0308 master ce8655ba                
 欽定四庫全書　　　　集部四
 　提要

@@ -1,5 +1,5 @@
 #+TITLE: 勿齋集-宋-楊至質
-#+DATE: 2016-06-11 12:25:04
+#+DATE: 2018-05-12 10:19:41
 #+SOURCE: github.com/kanripo/KR4d0362 master a0c6938b                
 欽定四庫全書　　　　　集部四
 　勿齋集　　　　　　　　别集類三(宋/)

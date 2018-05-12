@@ -1,5 +1,5 @@
 #+TITLE: 孝詩-宋-林同
-#+DATE: 2016-06-11 12:25:04
+#+DATE: 2018-05-12 10:19:40
 #+SOURCE: github.com/kanripo/KR4d0360 master 0e33f59c                
 欽定四庫全書　　　　　集部四
 　孝詩　　　　　　　　　别集類三(宋/)

@@ -1,5 +1,5 @@
 #+TITLE: 洪龜父集-宋-洪朋
-#+DATE: 2016-06-11 12:24:45
+#+DATE: 2018-05-12 10:19:20
 #+SOURCE: github.com/kanripo/KR4d0131 master 7705d1ec                
 欽定四庫全書　　　　　集部三
 　提要

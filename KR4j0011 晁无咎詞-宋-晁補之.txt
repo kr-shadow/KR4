@@ -1,5 +1,5 @@
 #+TITLE: 晁无咎詞-宋-晁補之
-#+DATE: 2016-06-11 12:26:41
+#+DATE: 2018-05-12 10:21:29
 #+SOURCE: github.com/kanripo/KR4j0011 master 8d5eae91                
 欽定四庫全書　　　　　集部十
 　晁旡咎詞　　　　　　　詞曲類一(詞集之屬/)

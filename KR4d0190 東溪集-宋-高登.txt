@@ -1,5 +1,5 @@
 #+TITLE: 東溪集-宋-高登
-#+DATE: 2016-06-11 12:24:49
+#+DATE: 2018-05-12 10:19:25
 #+SOURCE: github.com/kanripo/KR4d0190 master 2c09a285                
 欽定四庫全書　　　　　集部四
 　東溪集　　　　　　　　别集類三(宋/)

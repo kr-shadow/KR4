@@ -1,5 +1,5 @@
 #+TITLE: 淮陽集-元-張弘範
-#+DATE: 2016-06-11 12:25:07
+#+DATE: 2018-05-12 10:19:44
 #+SOURCE: github.com/kanripo/KR4d0423 master 239b390e                
 欽定四庫全書　　　　　集部五
 　淮陽集　　　　　　　　别集類四(元/)

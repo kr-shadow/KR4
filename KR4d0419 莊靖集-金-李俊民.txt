@@ -1,5 +1,5 @@
 #+TITLE: 莊靖集-金-李俊民
-#+DATE: 2016-06-11 12:25:07
+#+DATE: 2018-05-12 10:19:43
 #+SOURCE: github.com/kanripo/KR4d0419 master aeb8d4ac                
 欽定四庫全書　　　　　集部五
 　莊靖集目録　　　　　　别集類四(金/)

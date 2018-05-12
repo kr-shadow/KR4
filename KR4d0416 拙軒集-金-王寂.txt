@@ -1,5 +1,5 @@
 #+TITLE: 拙軒集-金-王寂
-#+DATE: 2016-06-11 12:25:06
+#+DATE: 2018-05-12 10:19:43
 #+SOURCE: github.com/kanripo/KR4d0416 master 7e1f4915                
 欽定四庫全書　　　　集部五
 　提要

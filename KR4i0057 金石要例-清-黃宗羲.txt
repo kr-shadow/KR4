@@ -1,5 +1,5 @@
 #+TITLE: 金石要例-清-黃宗羲
-#+DATE: 2016-06-11 12:26:40
+#+DATE: 2018-05-12 10:21:28
 #+SOURCE: github.com/kanripo/KR4i0057 master aa0197c9                
 欽定四庫全書　　　　　集部九
 　金石要例　　　　　　　詩文評類

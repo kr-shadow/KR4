@@ -1,5 +1,5 @@
 #+TITLE: 師友詩傳錄-清-郎廷槐
-#+DATE: 2016-06-11 12:26:40
+#+DATE: 2018-05-12 10:21:28
 #+SOURCE: github.com/kanripo/KR4i0059 master 93057e3d                
 欽定四庫全書
 　師友詩傳録

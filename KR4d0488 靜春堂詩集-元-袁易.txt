@@ -1,5 +1,5 @@
 #+TITLE: 靜春堂詩集-元-袁易
-#+DATE: 2016-06-11 12:25:12
+#+DATE: 2018-05-12 10:19:48
 #+SOURCE: github.com/kanripo/KR4d0488 master 5c37f6f7                
 欽定四庫全書　　　　　集部五
 　静春堂集　　　　　　　别集類四(元/)

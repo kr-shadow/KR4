@@ -1,5 +1,5 @@
 #+TITLE: 龍洲詞-宋-劉過
-#+DATE: 2016-06-11 12:26:42
+#+DATE: 2018-05-12 10:21:30
 #+SOURCE: github.com/kanripo/KR4j0050 master dd57c422                
 欽定四庫全書　　　　　集部十
 　龍洲詞　　　　　　　　詞曲類一(詞集之屬/)

@@ -1,5 +1,5 @@
 #+TITLE: 岳武穆遺文-宋-岳飛
-#+DATE: 2016-06-11 12:24:49
+#+DATE: 2018-05-12 10:19:25
 #+SOURCE: github.com/kanripo/KR4d0191 master 34cd075c                
 欽定四庫全書　　　　　集部四
 　岳武穆遺文　　　　　　别集類三(宋/)

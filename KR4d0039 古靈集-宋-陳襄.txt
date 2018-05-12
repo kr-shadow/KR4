@@ -1,5 +1,5 @@
 #+TITLE: 古靈集-宋-陳襄
-#+DATE: 2016-06-11 12:24:34
+#+DATE: 2018-05-12 10:19:10
 #+SOURCE: github.com/kanripo/KR4d0039 master e96d7a18                
 欽定四庫全書　　　　　集部三
 　古靈集　　　　　　　　别集類二(宋/)

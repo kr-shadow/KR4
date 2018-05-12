@@ -1,5 +1,5 @@
 #+TITLE: 嘉禾百咏-宋-張堯同
-#+DATE: 2016-06-11 12:25:05
+#+DATE: 2018-05-12 10:19:42
 #+SOURCE: github.com/kanripo/KR4d0379 master cfe54fee                
 欽定四庫全書　　　　　集部四
 　嘉禾百咏　　　　　　　别集類三(宋/)

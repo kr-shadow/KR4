@@ -1,5 +1,5 @@
 #+TITLE: 衆妙集-宋-趙師秀
-#+DATE: 2016-06-11 12:26:03
+#+DATE: 2018-05-12 10:20:47
 #+SOURCE: github.com/kanripo/KR4h0052 master 09588c5c                
 欽定四庫全書　　　　　集部八
 　衆妙集　　　　　　　　總集類

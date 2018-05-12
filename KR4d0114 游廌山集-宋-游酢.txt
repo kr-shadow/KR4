@@ -1,5 +1,5 @@
 #+TITLE: 游廌山集-宋-游酢
-#+DATE: 2016-06-11 12:24:44
+#+DATE: 2018-05-12 10:19:19
 #+SOURCE: github.com/kanripo/KR4d0114 master 2c3a0371                
 欽定四庫全書　　　　集部三
 　游廌山集　　　　　　　别集類二(宋/)

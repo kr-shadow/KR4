@@ -1,5 +1,5 @@
 #+TITLE: 御覽詩-唐-令狐楚
-#+DATE: 2016-06-11 12:25:56
+#+DATE: 2018-05-12 10:20:39
 #+SOURCE: github.com/kanripo/KR4h0011 master f5a47588                
 欽定四庫全書　　　　集部八
 　御覽詩　　　　　　　總集𩔖

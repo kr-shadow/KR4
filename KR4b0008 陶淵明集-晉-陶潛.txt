@@ -1,5 +1,5 @@
 #+TITLE: 陶淵明集-晉-陶潛
-#+DATE: 2016-06-11 12:24:23
+#+DATE: 2018-05-12 10:18:58
 #+SOURCE: github.com/kanripo/KR4b0008 master b344882c                
 欽定四庫全書　　　　　集部二
 　陶淵明集　　　　　　　别集類一(晉/)

@@ -1,5 +1,5 @@
 #+TITLE: 懷麓堂詩話-明-李東陽
-#+DATE: 2016-06-11 12:26:40
+#+DATE: 2018-05-12 10:21:27
 #+SOURCE: github.com/kanripo/KR4i0051 master 033ab98c                
 欽定四庫全書　　　　　集部九
 　懷麓堂詩話　　　　　　詩文評類

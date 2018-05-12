@@ -1,5 +1,5 @@
 #+TITLE: 稼軒詞-宋-辛棄疾
-#+DATE: 2016-06-11 12:26:42
+#+DATE: 2018-05-12 10:21:29
 #+SOURCE: github.com/kanripo/KR4j0040 master 0acd2865                
 欽定四庫全書　　　　　集部十
 　稼軒詞　　　　　　　　詞曲類一(詞集之屬/)

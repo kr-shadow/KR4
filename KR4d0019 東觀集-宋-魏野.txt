@@ -1,5 +1,5 @@
 #+TITLE: 東觀集-宋-魏野
-#+DATE: 2016-06-11 12:24:32
+#+DATE: 2018-05-12 10:19:08
 #+SOURCE: github.com/kanripo/KR4d0019 master 637c6c07                
 欽定四庫全書　　　　集部三
 　東觀集　　　　　　　别集類二(宋/)

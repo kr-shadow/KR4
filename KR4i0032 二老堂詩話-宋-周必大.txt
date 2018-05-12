@@ -1,5 +1,5 @@
 #+TITLE: 二老堂詩話-宋-周必大
-#+DATE: 2016-06-11 12:26:39
+#+DATE: 2018-05-12 10:21:26
 #+SOURCE: github.com/kanripo/KR4i0032 master 1adcd838                
 欽定四庫全書　　　　　集部九
 　二老堂詩話　　　　　　詩文評類

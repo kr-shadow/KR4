@@ -1,5 +1,5 @@
 #+TITLE: 後山詩話-宋-陳師道
-#+DATE: 2016-06-11 12:26:38
+#+DATE: 2018-05-12 10:21:25
 #+SOURCE: github.com/kanripo/KR4i0009 master 4b44110d                
 欽定四庫全書　　　　　集部九
 　後山詩話　　　　　　　詩文評類

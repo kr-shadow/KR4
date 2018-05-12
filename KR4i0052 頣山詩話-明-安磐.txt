@@ -1,5 +1,5 @@
 #+TITLE: 頣山詩話-明-安磐
-#+DATE: 2016-06-11 12:26:40
+#+DATE: 2018-05-12 10:21:27
 #+SOURCE: github.com/kanripo/KR4i0052 master f16e9d47                
 欽定四庫全書　　　　　集部九
 　頤山詩話　　　　　　　詩文評類

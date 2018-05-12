@@ -1,5 +1,5 @@
 #+TITLE: 邕州小集-宋-陶弼
-#+DATE: 2016-06-11 12:24:35
+#+DATE: 2018-05-12 10:19:11
 #+SOURCE: github.com/kanripo/KR4d0046 master ad4f7da2                
 欽定四庫全書　　　　　集部三
 　邕州小集　　　　　　　别集類二(宋/)

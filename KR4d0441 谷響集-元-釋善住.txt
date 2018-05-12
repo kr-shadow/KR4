@@ -1,5 +1,5 @@
 #+TITLE: 谷響集-元-釋善住
-#+DATE: 2016-06-11 12:25:08
+#+DATE: 2018-05-12 10:19:45
 #+SOURCE: github.com/kanripo/KR4d0441 master 6714c7e9                
 欽定四庫全書　　　　　集部五
 　谷響集　　　　　　　　别集類四(元/)

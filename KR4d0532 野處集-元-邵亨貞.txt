@@ -1,5 +1,5 @@
 #+TITLE: 野處集-元-邵亨貞
-#+DATE: 2016-06-11 12:25:15
+#+DATE: 2018-05-12 10:19:51
 #+SOURCE: github.com/kanripo/KR4d0532 master 84f460e1                
 欽定四庫全書　　　　　集部五
 　野處集　　　　　　　　别集類五(元/)

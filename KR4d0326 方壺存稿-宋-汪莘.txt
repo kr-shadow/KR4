@@ -1,5 +1,5 @@
 #+TITLE: 方壺存稿-宋-汪莘
-#+DATE: 2016-06-11 12:25:01
+#+DATE: 2018-05-12 10:19:38
 #+SOURCE: github.com/kanripo/KR4d0326 master 639c2cf7                
 欽定四庫全書　　　　集部四
 　方壺存稿　　　　　　别集類三(宋/)

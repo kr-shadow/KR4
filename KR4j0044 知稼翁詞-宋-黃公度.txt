@@ -1,5 +1,5 @@
 #+TITLE: 知稼翁詞-宋-黃公度
-#+DATE: 2016-06-11 12:26:42
+#+DATE: 2018-05-12 10:21:29
 #+SOURCE: github.com/kanripo/KR4j0044 master 5b1b033c                
 欽定四庫全書　　　　集部十
 　提要

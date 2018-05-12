@@ -1,5 +1,5 @@
 #+TITLE: 華亭百詠-宋-許尚
-#+DATE: 2016-06-11 12:24:59
+#+DATE: 2018-05-12 10:19:35
 #+SOURCE: github.com/kanripo/KR4d0291 master 55a27ccb                
 欽定四庫全書　　　　　集部四
 　華亭百詠　　　　　　　别集類三(宋/)

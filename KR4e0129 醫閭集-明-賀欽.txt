@@ -1,5 +1,5 @@
 #+TITLE: 醫閭集-明-賀欽
-#+DATE: 2016-06-11 12:25:28
+#+DATE: 2018-05-12 10:20:05
 #+SOURCE: github.com/kanripo/KR4e0129 master c9cce1f0                
 欽定四庫全書　　　　　集部六
 　醫閭集　　　　　　　　别集類五(明/)

@@ -1,5 +1,5 @@
 #+TITLE: 山窗餘稿-元-甘復
-#+DATE: 2016-06-11 12:25:16
+#+DATE: 2018-05-12 10:19:53
 #+SOURCE: github.com/kanripo/KR4d0563 master ac69b262                
 欽定四庫全書　　　　集部五
 　山窻餘稿　　　　　　　别集類四(元/)

@@ -1,5 +1,5 @@
 #+TITLE: 唐四僧詩-唐-釋靈澈
-#+DATE: 2016-06-11 12:25:57
+#+DATE: 2018-05-12 10:20:39
 #+SOURCE: github.com/kanripo/KR4h0016 master beffe826                
 欽定四庫全書　　　　　集部八
 　唐四僧詩　　　　　　　總集類

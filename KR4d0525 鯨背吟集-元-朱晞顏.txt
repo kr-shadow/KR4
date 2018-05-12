@@ -1,5 +1,5 @@
 #+TITLE: 鯨背吟集-元-朱晞顏
-#+DATE: 2016-06-11 12:25:14
+#+DATE: 2018-05-12 10:19:51
 #+SOURCE: github.com/kanripo/KR4d0525 master 3556dec6                
 欽定四庫全書　　　　　集部五
 　鯨背吟集　　　　　　　别集類四(元/)

@@ -1,5 +1,5 @@
 #+TITLE: 優古堂詩話-宋-吳幵
-#+DATE: 2016-06-11 12:26:38
+#+DATE: 2018-05-12 10:21:25
 #+SOURCE: github.com/kanripo/KR4i0011 master 077d348d                
 欽定四庫全書　　　　　集部九
 　優古堂詩話　　　　　　詩文評類

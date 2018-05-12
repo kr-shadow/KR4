@@ -1,5 +1,5 @@
 #+TITLE: 芳谷集-元-徐明善
-#+DATE: 2016-06-11 12:25:10
+#+DATE: 2018-05-12 10:19:47
 #+SOURCE: github.com/kanripo/KR4d0468 master ab832003                
 欽定四庫全書　　　　　集部五
 　芳谷集　　　　　　　　别集類五(元/)

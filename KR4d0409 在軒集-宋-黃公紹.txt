@@ -1,5 +1,5 @@
 #+TITLE: 在軒集-宋-黃公紹
-#+DATE: 2016-06-11 12:25:06
+#+DATE: 2018-05-12 10:19:43
 #+SOURCE: github.com/kanripo/KR4d0409 master 1f408d9d                
 欽定四庫全書　　　　　集部四
 　在軒集　　　　　　　　别集類三(宋/)

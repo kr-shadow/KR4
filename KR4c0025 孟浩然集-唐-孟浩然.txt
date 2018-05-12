@@ -1,5 +1,5 @@
 #+TITLE: 孟浩然集-唐-孟浩然
-#+DATE: 2016-06-11 12:24:26
+#+DATE: 2018-05-12 10:19:01
 #+SOURCE: github.com/kanripo/KR4c0025 master 62256120                
 孟浩然集序
 　　　　　　　　宜城王　士源　撰

@@ -1,5 +1,5 @@
 #+TITLE: 詩紀匡謬-清-馮舒
-#+DATE: 2016-06-11 12:26:10
+#+DATE: 2018-05-12 10:20:55
 #+SOURCE: github.com/kanripo/KR4h0108 master fdd7af5e                
 欽定四庫全書　　　　　集部八
 　詩紀匡謬　　　　　　　總集類

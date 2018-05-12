@@ -1,5 +1,5 @@
 #+TITLE: 四六談麈-宋-謝伋
-#+DATE: 2016-06-11 12:26:39
+#+DATE: 2018-05-12 10:21:26
 #+SOURCE: github.com/kanripo/KR4i0027 master 0f27ee85                
 欽定四庫全書　　　　　集部九
 　四六談麈　　　　　　　詩文評類

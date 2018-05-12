@@ -1,5 +1,5 @@
 #+TITLE: 文章軌範-宋-謝枋得
-#+DATE: 2016-06-11 12:26:04
+#+DATE: 2018-05-12 10:20:48
 #+SOURCE: github.com/kanripo/KR4h0059 master 959fe777                
 欽定四庫全書　　　　　集部八
 　文章軌範　　　　　　　總集類

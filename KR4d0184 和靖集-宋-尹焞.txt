@@ -1,5 +1,5 @@
 #+TITLE: 和靖集-宋-尹焞
-#+DATE: 2016-06-11 12:24:49
+#+DATE: 2018-05-12 10:19:25
 #+SOURCE: github.com/kanripo/KR4d0184 master c93abfa1                
 欽定四庫全書　　　　　集部四
 　和靖集目錄　　　　　　别集類三(宋/)

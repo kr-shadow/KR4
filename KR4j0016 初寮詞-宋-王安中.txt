@@ -1,5 +1,5 @@
 #+TITLE: 初寮詞-宋-王安中
-#+DATE: 2016-06-11 12:26:41
+#+DATE: 2018-05-12 10:21:29
 #+SOURCE: github.com/kanripo/KR4j0016 master 2d8da9d2                
 欽定四庫全書　　　　　集部十
 　提要
